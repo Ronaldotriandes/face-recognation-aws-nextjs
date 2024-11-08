@@ -4,6 +4,17 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 First, run the development server:
 
+Before that you have to login to AWS to set some credentials.
+Env
+
+```bash
+PORT = 
+REGION = 
+CREDENTIALS_ACCESSKEY =
+CREDENTIALS_SECRETACCESSKEY = 
+COLLECTIONID = 
+```
+
 ```bash
 npm run dev
 # or
